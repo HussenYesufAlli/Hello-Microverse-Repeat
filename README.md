@@ -207,7 +207,7 @@ Example:
 
 👤 **Hussen Yesuf**
 
-- GitHub: [@githubhandle](https://github.com/HussenYesufAlli)
+- GitHub: [@hussenyesufalli](https://github.com/HussenYesufAlli)
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
