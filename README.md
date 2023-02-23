@@ -4,6 +4,7 @@
   <br/>
   <h3><b>Hello Microverse</b></h3>
 </div>
+
 # :green_book: Table of Contents
 - [:book: About the Project](#about-project)
   - [:hammer_and_wrench: Built With](#built-with)
@@ -19,13 +20,11 @@
   - [Deployment](#triangular_flag_on_post-deployment)
 - [:busts_in_silhouette: Authors](#authors)
 - [:telescope: Future Features](#future-features)
-- [:handshake: Contributing](#contributing)
-- [:star:️ Show your support](#support)
-- [:pray: Acknowledgements](#acknowledgements)
-- [:question: FAQ (OPTIONAL)](#faq)
 - [:memo: License](#license)
+
 # :book: [Hello-Microverse] <a name="about-project"></a>
 **[Hello-Microverse]** is the first microverse project which is set up a "Hello microverse-repeat" repository and experience correct GitHub flow, branch and pull request..,
+
 ## :hammer_and_wrench: Built With <a name="built-with"></a>
 -HTML
 -CSS
@@ -42,12 +41,16 @@
     <li><a href="https://code.visualstudio.com/">Visual Studio Code</a></li>
   </ul>
 </details>
+
 <!-- Features -->
 ### Key Features <a name="key-features"></a>
-- **[Linters Setup]**
+
+- **[Github workFlows]**
+- **[Linters Configuration Setup]**
 - **[Follow HTML and CSS best practice]**
-- **[Display text]**
+- **[Display Header Text]**
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- LIVE DEMO -->
 ## :rocket: Live Demo <a name="live-demo"></a>
 - [Live Demo Link](https://hussenyesufalli.github.io/Hello-Microverse-Repeat/)
@@ -55,6 +58,7 @@
 <!-- GETTING STARTED -->
 ## :computer: Getting Started <a name="getting-started"></a>
 To get a local copy up and running, follow these steps.
+
 ### Prerequisites
 In order to run this project you need:
 - GitHub Account.
@@ -94,13 +98,19 @@ GitHub Pages
  https://hussenyesufalli.github.io/Hello-Microverse-Repeat/
 ```
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- AUTHORS -->
 ## :busts_in_silhouette: Authors <a name="authors"></a>
+
 :bust_in_silhouette: **Hussen Yesuf**
+
 - GitHub: [@HussenYesufAlli](https://github.com/HussenYesufAlli)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 <!-- FUTURE FEATURES -->
 ## :telescope: Future Features <a name="future-features"></a>
+
 - [ ] **[Header Section]**
 - [ ] **[Body-section]**
 - [ ] **[Footer Section]**
